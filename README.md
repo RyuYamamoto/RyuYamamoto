@@ -4,10 +4,15 @@
 
 ## Projects
 ### 3D Graph Based SLAM Package
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyuYamamoto&repo=lidar_graph_slam)](https://github.com/RyuYamamoto/lidar_graph_slam)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyuYamamoto&repo=lidar_graph_slam)](https://github.com/RyuYamamoto/lidar_graph_slam)  
+
 
 ### Autonomous Robot Navigation Packages
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyuYamamoto&repo=navyu)](https://github.com/RyuYamamoto/navyu)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyuYamamoto&repo=navyu)](https://github.com/RyuYamamoto/navyu)  
+
+-----
+
+<img src="img/navigation.png" height=300 >       <img src="img/lidar_graph_slam.png" height=300 >
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,ros,github,neovim,linux)](https://skillicons.dev)
