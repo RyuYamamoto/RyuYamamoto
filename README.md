@@ -10,6 +10,9 @@
 ### Autonomous Robot Navigation Packages
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyuYamamoto&repo=navyu)](https://github.com/RyuYamamoto/navyu)  
 
+### Loosely Coupled Lidar Inertial Odometry Package
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyuYamamoto&repo=eskf_lio)](https://github.com/RyuYamamoto/eskf_lio)  
+
 -----
 
 <img src="img/navigation.png" height=300 >       <img src="img/lidar_graph_slam.png" height=300 >
