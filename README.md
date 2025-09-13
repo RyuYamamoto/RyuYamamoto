@@ -7,9 +7,6 @@
 ### 3D Graph Based SLAM Package
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyuYamamoto&repo=lidar_graph_slam)](https://github.com/RyuYamamoto/lidar_graph_slam) 
 
-### Loosely Coupled Lidar Inertial Odometry Package
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyuYamamoto&repo=eskf_lio)](https://github.com/RyuYamamoto/eskf_lio)  
-
 -----
 
 <img src="img/navigation.png" height=300 >       <img src="img/lidar_graph_slam.png" height=300 >
